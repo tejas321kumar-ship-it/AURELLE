@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+build/
+
+# env
+.env
+.env*.local
+
+# misc
+.DS_Store
+*.log
+/tmp
+
+# drizzle
+drizzle/
